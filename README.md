@@ -9,7 +9,4 @@ Blue circles: Targets that have not yet been reached
 Pink circles: Targets that have already been reached
 
 
-![alt tag](http://i.imgur.com/GSr9fXI.gif)
-
-![alt tag](http://i.imgur.com/K3zUd0V.gif)
-
+![alt tag](images/simulation_1.gif)
